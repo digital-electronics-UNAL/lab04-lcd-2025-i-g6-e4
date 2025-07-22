@@ -38,5 +38,9 @@ Indice:
 <ol>
 <li>La aplicación de la representación de datos en una pantalla LCD es posible gracias a protocolos de comunicación y a una aplicación de una Máquina de Estados Finitos</li>
 <li>El uso de una pantalla LCD permite una mejor implementación en la fabricación de proyectos finales con orientación en educación</li>
+  <li>La implementación de las Máquinas de Estado Finito es realmente muy útil para sobrellevar técnicas de diseño de circuitos digitales para diferentes aplicaciones y situaciones de la vida cotidiana</li>
 <h2>Referencias</h2>
-
+<ol>
+  <li>D. N. Maldonado Ramírez, Laboratorio 04: Visualización Usando una Pantalla LCD 16x2, Universidad Nacional de Colombia, Bogotá, 2025</li>
+  <li>A. E. Arroyo Zambrano y H. F. Cabrera Ulloa, Medidor LC Utilizando Pantalla LCD 2x16 para Visualización por Programa Embebido en un Microcontrolador, Escuela Superior Politécnica del Litoral, Guayaquil, 2010</li>
+</ol>
