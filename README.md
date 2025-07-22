@@ -19,12 +19,14 @@ Indice:
 
 <h2>Diseño implementado</h2>
 <h3>Descripción</h3>
-<p>Una pantalla LCD (Liquid Crystal Display) es un dispositivo digital en el que se puede generar la visualización de varios caracteres de naturaleza alfanumérica. Es decir, es posible visualizar los números esde el 0 hasta el 9, y de las letras desde la A hasta la Z. La pantalla utilizada cuenta con un tamaño denominado 16x2, es decir, son 16 columnas por 2 filas. Ésta también cuenta con 16 espacios para la correcta soldadura a terminales machos, para la correcta conexión a la tarjeta reprogramable Cyclone IV.
+<p>Una pantalla LCD (Liquid Crystal Display) es un dispositivo digital en el que se puede generar la visualización de varios caracteres de naturaleza alfanumérica. Es decir, es posible visualizar los números esde el 0 hasta el 9, y de las letras desde la A hasta la Z. La pantalla utilizada cuenta con un tamaño denominado 16x2, es decir, son 16 columnas por 2 filas. Ésta también cuenta con 16 espacios para la correcta soldadura a terminales machos, para la correcta conexión a la tarjeta reprogramable Cyclone IV. Esta panatalla puede operar entre 4 y 8 bits.</p>
+<p>Lo que se buscaba en la práctica de la implementación, era la visualización de un par de mensajes, traducidos en lenguaje ASCII (American Standard Code for Information Interchange), el cual es un lenguaje de codificación de caracteres mediante la representación de valores numéricos en formato binario.</p>
 <h3>Diagramas</h3>
-
-
+<p>Se presentará a continuación en código del módulo proporcionado por la docente:</p>
+<img src="img/Código.png" alt="Código" width="400"/>
+<p>El funcionamiento de este módulo permite que, con la pantalla LCD conectada a los pines de propósito general de la Cyclone IV, se pueda consignar los datos presentados, traducir, decodificar, enviar los datos, y representarloss en la pantalla LCD</p>
 <h2>Simulaciones</h2> 
-
+<p>No se utilizaron simulaciones en programas afines. Debido a que el proyecto final del grupo estaba direccionado hacia la implementación de la pantalla LCD para la visualización de carcateres numéricos, la parte de la simulación fue reemplazada por todas las anteriores implementaciones hechas para el afianzamiento del proyecto final.
 <h2>Implementación</h2>
 
 <h2>Conclusiones</h2>
