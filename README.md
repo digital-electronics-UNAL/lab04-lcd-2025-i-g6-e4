@@ -2,9 +2,12 @@
 <h1>Lab04 - Visualización usando pantalla LCD 16x2</h1>
 
 <h1>Integrantes</h1>
+<ol>
+<li>Óscar Moreno</li>
+<li>Ángel Jiménez</li>
+<li>Jonathan Godoy</li>
 
-
-# Informe
+<h1>Informe</h1>
 
 Indice:
 
@@ -14,19 +17,18 @@ Indice:
 4. [Conclusiones](#conclusiones)
 5. [Referencias](#referencias)
 
-## Diseño implementado
-### Descripción
-
-### Diagramas
-
-
-## Simulaciones 
-
-## Implementación
+<h2>Diseño implementado</h2>
+<h3>Descripción</h3>
+<p>Una pantalla LCD ()
+<h3>Diagramas</h3>
 
 
-## Conclusiones
+<h2>Simulaciones</h2> 
+
+<h2>Implementación</h2>
+
+<h2>Conclusiones</h2>
 
 
-## Referencias
+<h2>Referencias</h2>
 
