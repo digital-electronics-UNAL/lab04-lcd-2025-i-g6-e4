@@ -19,7 +19,7 @@ Indice:
 
 <h2>Diseño implementado</h2>
 <h3>Descripción</h3>
-<p>Una pantalla LCD ()
+<p>Una pantalla LCD (Liquid Crystal Display) es un dispositivo digital en el que se puede generar la visualización de varios caracteres de naturaleza alfanumérica. Es decir, es posible visualizar los números esde el 0 hasta el 9, y de las letras desde la A hasta la Z. La pantalla utilizada cuenta con un tamaño denominado 16x2, es decir, son 16 columnas por 2 filas. Ésta también cuenta con 16 espacios para la correcta soldadura a terminales machos, para la correcta conexión a la tarjeta reprogramable Cyclone IV.
 <h3>Diagramas</h3>
 
 
