@@ -30,11 +30,13 @@ Indice:
 <h2>Implementación</h2>
 <p>En la implementación de los diferentes mensajes en la pantalla LCD, inicialmente, y gracias al módulo proporcionado, el mensaje que se buscaba implmentar era "Bateria 1 Bateria 2", en el que cada palabra con cada número compartiera una línea de la pantalla. Este mensaje estaba consignado de manera aparte en un archivo adjunto .txt, el cual consignaba este mensaje en lenguaje ASCII.</p> 
 <p>Partiendo de aquí, y buscando representar otro mensaje en la pantalla LCD, por medio de una página web en traducción de lenguaje textual a lenguaje ASCII, se decidió colocar un segundo mensaje</p>
-<p>Este segundo mensaje, de manera textual dictaba <b><i>Profe, pónganos 5.0, todo bien</i></b>, el cual cuenta con letras mayúsculas, signos de puntuación, números, y caracteres especiales que cuentan con el acento característico del idioma español, que es la tilde. La traducción a lenguaje ASCII es la siguiente:</p>
+<p>Este segundo mensaje, de manera textual dictaba "<b><i>Profe, pónganos 5.0, todo bien</i></b>", el cual cuenta con letras mayúsculas, signos de puntuación, números, y caracteres especiales que cuentan con el acento característico del idioma español, que es la tilde. La traducción a lenguaje ASCII es la siguiente:</p>
 <p><b>50 72 6F 66 65 2C 20 70 F3 6E 67 61 6E 6F 73 20 35 2E 30 20 74 6F 64 6F 20 62 69 65 6E 0A</b></p>
 <p>La traducción ASCII utilizada es de tipo hexadecimal, que es la notación precisa para la coreecta traducción e implementación en la pantalla LCD.</p>
 <h2>Conclusiones</h2>
-
-
+<p>Para concluir se presenta que:</p>
+<ol>
+<li>La aplicación de la representación de datos en una pantalla LCD es posible gracias a protocolos de comunicación y a una aplicación de una Máquina de Estados Finitos</li>
+<li>El uso de una pantalla LCD permite una mejor implementación en la fabricación de proyectos finales con orientación en educación</li>
 <h2>Referencias</h2>
 
